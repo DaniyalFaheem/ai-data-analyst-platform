@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+venv/
+ENV/
+env/
+
+# Streamlit
+.streamlit/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+data/
+
+# Reports
+*.pdf
+*.pptx
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
